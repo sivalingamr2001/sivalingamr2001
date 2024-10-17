@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="100" src="https://github.com/sivalingamr2001/sivalingamr2001/blob/main/Shiva.png?raw=true"  />
+  <img height="300" src="https://github.com/sivalingamr2001/sivalingamr2001/blob/main/Shiva.png?raw=true"  />
 </div>
 
 ###
