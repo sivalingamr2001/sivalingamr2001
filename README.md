@@ -60,11 +60,3 @@
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
   </a>
 </div>
-
-###
-
-<h3 align="left">🔥 My Stats</h3>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=sivalingamr2001&theme=dark&hide_border=false&border_radius=5" height="220" alt="streak graph" />
-</div>
