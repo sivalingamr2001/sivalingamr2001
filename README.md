@@ -8,12 +8,6 @@
   <a href="https://linkedin.com/in/your-profile" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
   </a>
-  <a href="https://youtube.com/your-channel" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="YouTube logo" />
-  </a>
-  <a href="https://twitter.com/your-handle" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter logo" />
-  </a>
 </div>
 
 ###
@@ -21,7 +15,7 @@
 <h1 align="center">Hi 👋, I'm Sivalingam R</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-3-0.netlify.app/](https://portfolio-3-0.netlify.app/)
+- 👨‍💻 My Portfolio [https://portfolio-3-0.netlify.app/](https://portfolio-3-0.netlify.app/)
 - 📫 How to reach me: **sivalingam.raj@hotmail.com**
 
 ###
